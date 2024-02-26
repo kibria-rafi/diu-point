@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "logo": "https://i.ibb.co/5LJxC6G/2f34a60b018dc8d8f1165658d47a66f5.png",
+      "name": "Academic Leaderboard",
+      "description": "See the top-performing students"
+    },
+    {
+      "id": 2,
+      "logo": "https://i.ibb.co/xDdfMf3/74bc254c9d9af05e74d94b548140b978.png",
+      "name": "CGPA Analyzer",
+      "description": "Calculate your future CGPA"
+    },
+    {
+      "id": 3,
+      "logo": "https://i.ibb.co/7tKs8q9/f8286f3696c386b231747c750693d50f.png",
+      "name": "ChatBot",
+      "description": "Custom chatbot trained on university’s official website"
+    },
+    {
+      "id": 4,
+      "logo": "https://i.ibb.co/Rp9rzx0/167509a6c6a081d05640653b156f5cd7.png",
+      "name": "Class Routine to Google Calendar",
+      "description": "Seamless Integration for Efficient Planning"
+    },
+    {
+      "id": 5,
+      "logo": "https://i.ibb.co/ryF1f1c/a693ff3eca2afe2f5141cb7e1a1346f8.png",
+      "name": "Generate Cover Page",
+      "description": "Instant PDF Grade Sheet Generation"
+    },
+    {
+      "id": 6,
+      "logo": "https://i.ibb.co/fkdQZ8k/03d93f8241b2e2eaf3094819f6335366.png",
+      "name": "Submit your suggestion",
+      "description": "Do you have any unique ideas for the site?"
+    }
+  ]
+  
