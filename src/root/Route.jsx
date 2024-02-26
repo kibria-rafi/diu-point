@@ -1,10 +1,13 @@
 
 import { Outlet } from 'react-router-dom';
+import Nav from '../Header/Nav';
 
 const Route = () => {
     return (
-        <div>
+        <div style={{ backgroundImage: `url('https://i.ibb.co/87MY2J2/site-bg.jpg')` }}  className="mx-auto h-[1000px]  bg-no-repeat bg-cover overflow-hidden " >
+            <Nav/>
             <Outlet></Outlet>
+            
         </div>
     );
 };
