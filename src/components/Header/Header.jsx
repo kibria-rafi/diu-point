@@ -14,19 +14,19 @@ const Nav = () => {
         </NavLink>
       </li>
       <li>
-        <NavLink className= {({ isActive, isPending }) =>
-            isPending ? "pending" : isActive ? "bg-purple-800" : ""
-          } to="/about">Services</NavLink>
+        <NavLink className={({ isActive, isPending }) =>
+          isPending ? "pending" : isActive ? "bg-purple-800" : ""
+        } to="/about">Services</NavLink>
       </li>
       <li>
         <NavLink className={({ isActive, isPending }) =>
-            isPending ? "pending" : isActive ? "bg-purple-800" : ""
-          } to="/Career">Career</NavLink>
+          isPending ? "pending" : isActive ? "bg-purple-800" : ""
+        } to="/Career">Career</NavLink>
       </li>
       <li>
         <NavLink className={({ isActive, isPending }) =>
-            isPending ? "pending" : isActive ? "bg-purple-800" : ""
-          } to="/login">Login</NavLink>
+          isPending ? "pending" : isActive ? "bg-purple-800" : ""
+        } to="/login">Login</NavLink>
       </li>
     </>
   );
