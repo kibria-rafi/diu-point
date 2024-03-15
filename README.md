@@ -21,4 +21,4 @@ We welcome feedback from users to improve DIU Point. If you encounter any issues
 
 ## Project Founders
 
-DIU Point was co-founded by [Kibria Rafi](https://github.com/kibria-rafi) and [Wahid Sadik](https://github.com/wahidsadikjishan). Feel free to connect with them on GitHub.
+DIU Point was co-founded by [Kibria Rafi](https://github.com/kibria-rafi) and [Wahid Sadik](https://github.com/wahidsadikjishan).
